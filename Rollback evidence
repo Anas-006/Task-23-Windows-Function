@@ -1,0 +1,56 @@
+Task 23 – Rollback Evidence
+
+Project
+
+SQL Window Functions Intro
+
+Database
+
+MySQL
+
+Dataset
+
+Online Retail
+
+Rollback Approach
+
+This task primarily involved SQL queries for analysis. No permanent changes were made to the original Online Retail transaction data.
+
+The analysis was performed using "SELECT" statements, Window Functions, CTEs, and calculated fields.
+
+Therefore, the original dataset remained unchanged.
+
+Version Control
+
+Working Version
+
+The completed SQL queries and analysis outputs are stored in the project repository.
+
+Rollback Method
+
+If any query needs to be reverted or corrected:
+
+1. Open the SQL file.
+2. Identify the query that needs modification.
+3. Restore the previous query version from Git history.
+4. Re-run the query against the original Online Retail dataset.
+5. Verify the output.
+
+Data Safety
+
+- Original transaction records were not updated.
+- No "UPDATE", "DELETE", or "DROP" operation was required for the analysis.
+- Window Functions were used only for analytical calculations.
+- The source dataset was preserved.
+
+Evidence
+
+The repository contains:
+
+- SQL query file
+- Query output screenshots
+- Notes
+- README
+- Final report
+
+This provides traceability for the completed Task 23 analysis.
