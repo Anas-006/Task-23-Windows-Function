@@ -1,0 +1,18 @@
+1. Outputs
+Task: SQL Window Functions Intro
+Dataset: Online Retail
+Database: MySQL
+Total Queries: 12
+Query outputs covered
+ROW_NUMBER() — Rows ordered sequentially.
+RANK() — Customers ranked based on sales.
+LAG() — Previous row quantity identified.
+ROW_NUMBER() + PARTITION BY — Customer-wise order numbering.
+RANK() + PARTITION BY — Country-wise customer sales ranking.
+DENSE_RANK() — Ranking without gaps after ties.
+LAG() + PARTITION BY — Previous purchase quantity.
+LAG() — Current sales vs previous sales.
+LAG() + Sales Difference — Sales change calculated.
+ROW_NUMBER() + CTE — Top 3 customers per country.
+RANK() + CTE — Top-ranked customers per country.
+LAG() + CASE — Sales trend identified as Increased, Decreased, No Change, or First Purchase.
